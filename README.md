@@ -43,14 +43,16 @@ yarn add @boringcodes/prettier-config --dev
 Create `.prettierrc` and add the content
 
 ```json
-@boringcodes/prettier-config
+"@boringcodes/prettier-config"
 ```
 
 Or if you want to extend the config, create `.prettierrc.js` instead
 
 ```javascript
+const config = require('@boringcodes/prettier-config');
+
 module.exports = {
-  ...require('@boringcodes/prettier-config'),
+  ...config,
   // TODO: add your prettier configs below
 };
 ```
