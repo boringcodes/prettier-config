@@ -1,5 +1,5 @@
 {
   "hooks": {
-    "pre-commit": "pretty-quick --staged --pattern **/*.js"
+    "pre-commit": "pretty-quick --staged --pattern \"**/*.js\""
   }
 }
