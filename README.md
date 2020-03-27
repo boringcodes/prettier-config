@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/badge/code_style-prettier-brightgreen?style=flat-square">
     </a>
     <a href="https://github.com/boringcodes/prettier-config/actions" aria-label="Lint Status">
-      <img src="https://img.shields.io/github/workflow/status/boringcodes/prettier-config/lint-source?style=flat-square">
+      <img src="https://img.shields.io/github/workflow/status/boringcodes/prettier-config/lint-source?style=flat-square&label=lint">
     </a>
     <a href="https://david-dm.org/boringcodes/prettier-config" aria-label="Dependencies Status">
       <img src="https://img.shields.io/david/boringcodes/prettier-config?style=flat-square">
