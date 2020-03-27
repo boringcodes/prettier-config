@@ -7,7 +7,7 @@
   "license": "MIT",
   "author": "BoringCodes <hi@boringcodes.com> (https://boringcodes.com)",
   "repository": "https://github.com/boringcodes/prettier-config.git",
-  "main": ".prettierrc.js",
+  "main": "index.js",
   "scripts": {
     "purge": "rm -rf node_modules",
     "release": "standard-version --no-verify",
