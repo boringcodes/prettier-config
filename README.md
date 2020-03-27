@@ -40,7 +40,7 @@ yarn add @boringcodes/prettier-config --dev
 
 ## Usage
 
-Create `.prettierrc` and add the content
+Create `.prettierrc`/`.prettierrc.json` and add the content
 
 ```json
 "@boringcodes/prettier-config"
