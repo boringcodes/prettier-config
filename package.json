@@ -10,10 +10,10 @@
   "main": "index.js",
   "scripts": {
     "purge": "rm -rf node_modules",
-    "format": "prettier --write .",
-    "format:check": "prettier --check .",
+    "format": "prettier --write --ignore-path .gitignore .",
+    "format:check": "prettier --check --ignore-path .gitignore .",
     "format:stage": "pretty-quick --staged",
-    "release": "standard-version --no-verify",
+    "release": "standard-version",
     "release:major": "yarn release --release-as major",
     "release:minor": "yarn release --release-as minor",
     "release:patch": "yarn release --release-as patch"

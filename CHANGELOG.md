@@ -4,13 +4,10 @@ All notable changes to this project will be documented in this file. See [standa
 
 ## [1.2.0](https://github.com/boringcodes/prettier-config/compare/v1.1.0...v1.2.0) (2020-03-28)
 
-
 ### Features
 
-* create index.js that exports .prettierrc file & udpate package.json main path ([46aa6b0](https://github.com/boringcodes/prettier-config/commit/46aa6b0))
-* **scripts:** add prettier, pretty-quick & husky for code style formating ([c7638f5](https://github.com/boringcodes/prettier-config/commit/c7638f5))
-
-
+- create index.js that exports .prettierrc file & udpate package.json main path ([46aa6b0](https://github.com/boringcodes/prettier-config/commit/46aa6b0))
+- **scripts:** add prettier, pretty-quick & husky for code style formating ([c7638f5](https://github.com/boringcodes/prettier-config/commit/c7638f5))
 
 ## [1.1.0](https://github.com/boringcodes/prettier-config/compare/v1.0.0...v1.1.0) (2020-03-27)
 
