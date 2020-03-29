@@ -35,7 +35,7 @@
 Use the package manager to install
 
 ```bash
-yarn add @boringcodes/prettier-config --dev
+yarn add @boringcodes/prettier-config prettier --dev
 ```
 
 ## Usage
