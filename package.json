@@ -19,7 +19,7 @@
     "release:patch": "yarn release --release-as patch"
   },
   "devDependencies": {
-    "@boringcodes/eslint-config": "^1.2.0",
+    "@boringcodes/eslint-config": "^1.2.1",
     "eslint": "^7.17.0",
     "eslint-config-prettier": "^7.1.0",
     "eslint-config-standard": "^16.0.2",
