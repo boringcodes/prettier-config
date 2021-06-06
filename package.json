@@ -17,12 +17,12 @@
     "release:major": "yarn release --release-as major",
     "release:minor": "yarn release --release-as minor",
     "release:patch": "yarn release --release-as patch",
-    "prepare": "husky install",
+    "husky": "husky",
     "lint-staged": "lint-staged",
     "commitlint": "commitlint"
   },
   "devDependencies": {
-    "@boringcodes/eslint-config": "1.2.1",
+    "@boringcodes/eslint-config": "1.2.6",
     "@commitlint/cli": "12.1.4",
     "@commitlint/config-conventional": "12.1.4",
     "eslint": "7.28.0",

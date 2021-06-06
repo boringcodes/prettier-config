@@ -44,12 +44,12 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@boringcodes/eslint-config@1.2.1":
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/@boringcodes/eslint-config/-/eslint-config-1.2.1.tgz#0b3a9e979b8d7e3b933f4bcd28a899ffc5edad23"
-  integrity sha512-0eDl1X6peex5p0TPwmlVrwiZGdJtJtUNnvWl4tJJROqWb4+p2a1LQYPcpeRJpjliVCgJQYRqQaPBWuKiy3oMTg==
+"@boringcodes/eslint-config@1.2.6":
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/@boringcodes/eslint-config/-/eslint-config-1.2.6.tgz#6dfe6438833526a3d4bdd4651db0df928b1b13c0"
+  integrity sha512-sKPodKoZNEpUJKEs83I9PpmsWO0cF0KCMGONIvyOO87PaNGC7rNjpEttWzYDl3VCEXMlNFZSfSinnmo5GlGfbg==
 
-"@commitlint/cli@^12.1.4":
+"@commitlint/cli@12.1.4":
   version "12.1.4"
   resolved "https://registry.yarnpkg.com/@commitlint/cli/-/cli-12.1.4.tgz#af4d9dd3c0122c7b39a61fa1cd2abbad0422dbe0"
   integrity sha512-ZR1WjXLvqEffYyBPT0XdnSxtt3Ty1TMoujEtseW5o3vPnkA1UNashAMjQVg/oELqfaiAMnDw8SERPMN0e/0kLg==
@@ -64,7 +64,7 @@
     resolve-global "1.0.0"
     yargs "^16.2.0"
 
-"@commitlint/config-conventional@^12.1.4":
+"@commitlint/config-conventional@12.1.4":
   version "12.1.4"
   resolved "https://registry.yarnpkg.com/@commitlint/config-conventional/-/config-conventional-12.1.4.tgz#95bbab622f117a8a3e49f95917b08655040c66a8"
   integrity sha512-ZIdzmdy4o4WyqywMEpprRCrehjCSQrHkaRTVZV411GyLigFQHlEBSJITAihLAWe88Qy/8SyoIe5uKvAsV5vRqQ==
