@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.2](https://github.com/boringcodes/prettier-config/compare/v1.3.1...v1.3.2) (2021-06-06)
+
+### Bug Fixes
+
+- **deps:** upgrade @boringcodes/eslint-config to fix eslint prettier config ([e87f90f](https://github.com/boringcodes/prettier-config/commit/e87f90f1defb5a0be5f101be298b314e659af609))
+
 ### [1.3.1](https://github.com/boringcodes/prettier-config/compare/v1.3.0...v1.3.1) (2021-01-11)
 
 ## [1.3.0](https://github.com/boringcodes/prettier-config/compare/v1.2.2...v1.3.0) (2021-01-11)
