@@ -37,6 +37,9 @@
     "rimraf": "3.0.2",
     "standard-version": "9.3.0"
   },
+  "eslintConfig": {
+    "extends": "@boringcodes/eslint-config"
+  },
   "lint-staged": {
     "*.{js,json,md,yml}": "yarn format",
     "*.js": "yarn lint"
