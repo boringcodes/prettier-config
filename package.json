@@ -37,6 +37,7 @@
     "rimraf": "3.0.2",
     "standard-version": "9.3.0"
   },
+  "prettier": "./index.js",
   "eslintConfig": {
     "extends": "@boringcodes/eslint-config"
   },
